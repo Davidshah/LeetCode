@@ -4,4 +4,4 @@
 Repository to organize my progress on [LeetCode](https://leetcode.com/davidshahrestani/) challenges.
 
 ### Getting Started
-* Jupyter Notebooks contain problems and solutions.
+* Jupyter Notebooks contain problems and solutions. Pick and explore.
